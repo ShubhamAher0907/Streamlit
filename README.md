@@ -1,7 +1,7 @@
 # **Installation**
 
-    Before running the application, make sure you have Python installed. You will also need to install the required 
-    libraries using pip:
+Before running the application, make sure you have Python installed. You will also need to install the required 
+libraries using pip:
 
 # **Usage:**
 
@@ -32,7 +32,7 @@ Replace <script_name> with the name of your Python script.
 **Validation:** 
     If the user doesn't provide a valid stock ticker symbol, the app will prompt them to enter the correct short form of the stock.
 
-**# Code Overview**
+**Code Overview**
 
 **Importing Libraries:** 
     The necessary libraries, including yfinance for fetching stock data and streamlit for creating the web application, are 
@@ -53,8 +53,7 @@ Replace <script_name> with the name of your Python script.
 **Error Handling:** 
     If the user doesn't enter a valid stock ticker, the application prompts them to provide the correct symbol.
 
-![img.png](img.png)
 
-![img_1.png](img_1.png)
 
-![img_2.png](img_2.png)
+
+
