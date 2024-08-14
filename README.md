@@ -54,6 +54,7 @@ Replace <script_name> with the name of your Python script.
     If the user doesn't enter a valid stock ticker, the application prompts them to provide the correct symbol.
 
 
+<<<<<<< HEAD
 ![img_1.png](img_1.png)
 
 ![img_2.png](img_2.png)
@@ -62,3 +63,12 @@ Replace <script_name> with the name of your Python script.
 
 
 
+=======
+![img.png](img.png)
+
+
+
+
+
+
+>>>>>>> 528457f5ffddf2c96b9ef93bfd2139127523de1a
