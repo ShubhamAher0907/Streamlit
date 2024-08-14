@@ -3,7 +3,7 @@
 Before running the application, make sure you have Python installed. You will also need to install the required 
 libraries using pip:
 
-# **Usage:**
+# **Usage**
 
 To run the application, execute the following command in your terminal:
         **streamlit run <script_name>.py**
