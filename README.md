@@ -59,6 +59,5 @@ Replace <script_name> with the name of your Python script.
 
 ![img_3.png](img_3.png)
 
-![img.png](img.png)
 
 
