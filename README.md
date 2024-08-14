@@ -53,9 +53,9 @@ Replace <script_name> with the name of your Python script.
 **Error Handling:** 
     If the user doesn't enter a valid stock ticker, the application prompts them to provide the correct symbol.
 
-<<<<<<< HEAD
+
 ![img.png](img.png)
-=======
+
 
 
 
